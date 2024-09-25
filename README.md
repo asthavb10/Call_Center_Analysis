@@ -1,2 +1,2 @@
 # Call_Center_Analysis
-Here, I came across the data from a call center. They asked to analyze the data according to the no. of calls answered, Customer's problem resolved, rating of the call attendant, etc. According to the analysis draw the meaningful insights using the Microsoft Power BI. 
+For this project, I analyzed call center data focusing on key metrics like calls answered, problem resolution rates, and attendant ratings. Using Power BI, I visualized trends and correlations to derive actionable insights, enhancing operational efficiency and customer service quality.
